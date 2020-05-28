@@ -27,6 +27,7 @@ function iLoveTheBeatles(number) {
   do{
     emptyArray[i] = "I love the Beatles!"
     num++
+    i++
   }while(num < 15);
 return emptyArray
 };
